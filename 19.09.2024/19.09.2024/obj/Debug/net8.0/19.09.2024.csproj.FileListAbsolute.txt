@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\19.09.2024\19.09.2024\bin\Debug\net8.0\19.09.2024.exe
+C:\Users\student\source\repos\19.09.2024\19.09.2024\bin\Debug\net8.0\19.09.2024.deps.json
+C:\Users\student\source\repos\19.09.2024\19.09.2024\bin\Debug\net8.0\19.09.2024.runtimeconfig.json
+C:\Users\student\source\repos\19.09.2024\19.09.2024\bin\Debug\net8.0\19.09.2024.dll
+C:\Users\student\source\repos\19.09.2024\19.09.2024\bin\Debug\net8.0\19.09.2024.pdb
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.AssemblyInfo.cs
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.dll
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\refint\19.09.2024.dll
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.pdb
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\19.09.2024.genruntimeconfig.cache
+C:\Users\student\source\repos\19.09.2024\19.09.2024\obj\Debug\net8.0\ref\19.09.2024.dll
